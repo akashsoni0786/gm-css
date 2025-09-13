@@ -1,16 +1,24 @@
 {
-  "name": "gm-css",
+  "name": "gharmandir-css",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+   "keywords": ["css", "styles"],
+  "author": "Akash Soni",
   "license": "ISC",
   "type": "commonjs",
   "files": [
     "dist"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashsoni0786/gm-css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/akashsoni0786/gm-css/issues"
+  },
+  "homepage": "https://github.com/akashsoni0786/gm-css#readme"
 }
